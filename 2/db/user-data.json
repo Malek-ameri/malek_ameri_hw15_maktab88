@@ -1,0 +1,17 @@
+[
+  {
+    "firsname": "john",
+    "lastname": "smith",
+    "username": "john_smith",
+    "password": "user1234",
+    "gender": "male"
+  },
+  {
+    "username": "malek",
+    "email": "sdfsfdss@gmail.com",
+    "password": "malek1373",
+    "gender": "male",
+    "isLoggedIn": "false",
+    "firstname":"amerei"
+  }
+]

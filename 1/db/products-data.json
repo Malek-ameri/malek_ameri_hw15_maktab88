@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "model": "FHD",
+    "price": "12,550,000",
+    "brand": "lenovo",
+    "screen": "15.6",
+    "ram": "4",
+    "hard": 1,
+    "cpuCreator": "intel",
+    "cpuSeries": "Celeron",
+    "weight": 1.7
+  },
+  {
+    "id": 2,
+    "model": "i3 4G 1T",
+    "price": "17,690,000",
+    "brand": "lenovo",
+    "screen": "15.6",
+    "ram": "4",
+    "hard": 1,
+    "cpuCreator": "intel",
+    "cpuSeries": "Core i3",
+    "weight": 1.65
+  },
+  {
+    "id": 3,
+    "model": "15ITL6",
+    "price": "33,390,000",
+    "brand": "lenovo",
+    "screen": "15.6",
+    "ram": "8",
+    "hard": 1,
+    "cpuCreator": "intel",
+    "cpuSeries": "Core i7",
+    "weight": 1.65
+  },
+  {
+    "id": 4,
+    "model": " IdeaPad 5-A",
+    "price": "39,430,000",
+    "brand": "lenovo",
+    "screen": "15",
+    "ram": "16",
+    "hard": 1,
+    "cpuCreator": "intel",
+    "cpuSeries": "Core i7",
+    "weight": 1.66
+  },
+  {
+    "id": 5,
+    "model": " IdeaPad 5-A",
+    "price": "47,500,000",
+    "brand": "lenovo",
+    "screen": "15.6",
+    "ram": "16",
+    "hard": "1.256",
+    "cpuCreator": "AMD",
+    "cpuSeries": "Ryzen 5",
+    "weight": 2.25
+  },
+  {
+    "id": 6,
+    "model": "Gaming 3-L",
+    "price": "42,500,000",
+    "brand": "lenovo",
+    "screen": "15.6",
+    "ram": "16",
+    "hard": "1.256",
+    "cpuCreator": "AMD",
+    "cpuSeries": "Core i7",
+    "weight": 2.25
+  },
+  {
+    "id": 7,
+    "model": "IdeaPad 3 ",
+    "price": "21,000,000",
+    "brand": "lenovo",
+    "screen": "15.6",
+    "ram": "12",
+    "hard": "1.256",
+    "cpuCreator": "intel",
+    "cpuSeries": "Core i3",
+    "weight": 1.65
+  },
+  {
+    "id": 8,
+    "model": "IdeaPad 5 ",
+    "price": "18,000,000",
+    "brand": "lenovo",
+    "screen": "15.6",
+    "ram": "4",
+    "hard": "1",
+    "cpuCreator": "intel",
+    "cpuSeries": "Core i3",
+    "weight": 1.7
+  },
+  {
+    "id": 9,
+    "model": "Legion 5 ",
+    "price": "44,690,000",
+    "brand": "lenovo",
+    "screen": "15.6",
+    "ram": "16",
+    "hard": "1",
+    "cpuCreator": "AMD",
+    "cpuSeries": "Ryzen 5",
+    "weight": 2.4
+  }
+]
